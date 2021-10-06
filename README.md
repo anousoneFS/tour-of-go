@@ -1,3 +1,3 @@
 ### a tour of go
 
-golang basic
+#### ຮຽນພື້ນຖານພາສາ Golang ຜ່ານເວັບໄຊ [a tour of go](https://go-tour-th.appspot.com/welcome/1)
