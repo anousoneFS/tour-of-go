@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	CallGoMethods()
+	TypeSwitch()
 }
 
 // what the output is ?
