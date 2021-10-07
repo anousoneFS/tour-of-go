@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	TypeSwitch()
+	SelectWork()
 }
 
 // what the output is ?
